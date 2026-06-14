@@ -1,2 +1,28 @@
-# 5107905a-email-marketing-automation-i
-Generate invoices, accept payments, track revenue, and automate receipts for Email Marketing &amp; Automation. All-in-one financial management for Email Marketing &amp; Automation sites.
+# Email Marketing & Automation Invoice and Payment WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A6oHaDd2k4aNO33mcZd3K)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A6oHaDd2k4aNO33mcZd3K)
+
